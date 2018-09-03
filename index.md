@@ -1,4 +1,4 @@
-<h3>Daily Quests</h3>
+<h2>Daily Quests</h2>
 <hr style='height:1px; visibility:hidden;' />
 
 <div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 500px;max-width: 100%;margin-left:auto;margin-right:auto;">

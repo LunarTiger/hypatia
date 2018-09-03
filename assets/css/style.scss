@@ -66,3 +66,11 @@ table {
 ul {
     list-style-position: inside;
 }
+
+li::before {
+    content: "■";
+    color: #0a0;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em
+}

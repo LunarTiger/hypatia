@@ -1,7 +1,7 @@
 <h2>Hypatia Hints</h2>
 <hr style='height:1px; visibility:hidden;' />
 
-<div style="border-style: dotted;border-width: 2px;border-color: #006900;width: 800px;max-width: 100%;margin-left:auto;margin-right:auto;">
+<div style="border-style: dotted;border-width: 2px;border-color: #006900;width: 500px;max-width: 100%;margin-left:auto;margin-right:auto;">
 <h3>Daily Quests</h3>
 <p>Spaceships - 100 exp<br>
 Raise flags - 100 exp<br>

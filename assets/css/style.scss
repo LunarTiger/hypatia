@@ -67,7 +67,7 @@ ul {
     list-style-position: inside;
 }
 
-li::before {
+li.square {
     content: "■";
     color: #0a0;
     display: inline-block;

@@ -1,6 +1,6 @@
 <h2>Hypatia Hints</h2>
 <hr style='height:1px; visibility:hidden;' />
-<hr3>Daily Quests</hr3>
+<h3>Daily Quests</h3>
 <p style="white-space:pre">Spaceships - 100 exp
 Raise flags - 100 exp
 Create firework, last cabin. - 25 exp, 10 bits

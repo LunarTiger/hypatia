@@ -2,7 +2,7 @@
 <hr style='height:1px; visibility:hidden;' />
 
 <div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 500px;max-width: 100%;margin-left:auto;margin-right:auto;">
-	<ul style="text-align: left;list-style-position: outside;list-style-type: square;">
+	<ul style="text-align: left;list-style-position: outside;list-style: none;">
 		<li>
 			::before
 			Spaceships - 100 exp

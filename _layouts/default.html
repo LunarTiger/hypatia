@@ -28,16 +28,21 @@
           {% endif %}
         </nav>
       </div><!-- end header -->
+
       <div id="header">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <hr>
-        <span class="credits left"><a href="/">Home</a></span>
-        <span class="credits right"><a href="/projects">Projects</a></span>
+        <nav>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </nav>
       </div>
 
     <div class="wrapper">
 
       <section>
+        <div id="title">
+          <hr>
+          <span class="credits left"><a href="/">Home</a></span>
+          <span class="credits right"><a href="/projects">Projects</a></span>
+        </div>
 
         {{ content }}
 

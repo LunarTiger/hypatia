@@ -3,7 +3,7 @@
 
 <div style="border-style: dotted;border-width: 2px;border-color: #006900;width: 500px;max-width: 100%;margin-left:auto;margin-right:auto;">
 	<h3>Daily Quests</h3>
-	<ul style="text-align: left;">
+	<ul style="text-align: left;list-style-position: outside;">
 		<li>Spaceships - 100 exp</li>
 		<li>Raise flags - 100 exp</li>
 		<li>Create firework, last cabin. - 25 exp, 10 bits</li>

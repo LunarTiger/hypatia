@@ -1,7 +1,7 @@
 <h2 style ="text-align: center;">Daily Quests</h2>
 <hr style='height:1px; visibility:hidden;' />
 
-<div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 500px;max-width: 100%;margin-left:auto;margin-right:auto;">
+<div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 400px;max-width: 100%;margin-left:auto;margin-right:auto;">
 	<ul style="text-align: left;list-style-position: outside;list-style: none;">
 		<li>Spaceships - 100 exp</li>
 		<li>Raise flags - 100 exp</li>

@@ -8,6 +8,8 @@
 		<li>Create firework, last cabin. - 25 exp, 10 bits</li>
 		<li>Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total</li>
 		<li>Theater - Need more info</li>
-		<li>Daily Photo Print and Projection - Need more info</li>
+		<li>Daily Photo Print - 50 XP</li>
+		<li>Daily Photo Projection - 50 XP, 25 bits</li>
+		<li>Daily Photo Submission - 25 bits</li>
 	</ul>
 </div>

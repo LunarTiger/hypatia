@@ -5,7 +5,6 @@
 	<hr style="height:0px; visibility:hidden;" />
 	<input type="checkbox"> Spaceships - 100 exp<hr />
 	<input type="checkbox"> Raise flags - 100 exp<hr />
-	<input type="checkbox"> Raise flags - 100 exp<hr />
 	<input type="checkbox"> Create firework, last cabin. - 25 exp, 10 bits<hr />
 	<input type="checkbox"> Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total<hr />
 	<input type="checkbox"> Theater - Need more info<hr />

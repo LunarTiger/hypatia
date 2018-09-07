@@ -2,6 +2,7 @@
 <hr style='height:1px; visibility:hidden;' />
 
 <div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 400px;max-width: 100%;margin-left:auto;margin-right:auto;">
+	<hr style="height:1px; visibility:hidden;" />
 	<input type="checkbox"> Spaceships - 100 exp<hr />
 	<input type="checkbox"> Raise flags - 100 exp<hr />
 	<input type="checkbox"> Raise flags - 100 exp<hr />

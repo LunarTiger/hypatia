@@ -7,6 +7,8 @@
 	<input type="checkbox"> Raise flags - 100 exp<hr />
 	<input type="checkbox"> Create firework, last cabin. - 25 exp, 10 bits<hr />
 	<input type="checkbox"> Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total<hr />
+	<input type="checkbox"> Submit Painting - 25 bits each, can submit 3<hr />
+	<input type="checkbox"> Return Crown in Musem - 100 bits<hr />
 	<input type="checkbox"> Theater - Need more info<hr />
 	<input type="checkbox"> Daily Photo Print - 50 XP<hr />
 	<input type="checkbox"> Photo Projection - 50 XP, 25 bits<hr />

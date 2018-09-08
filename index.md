@@ -9,7 +9,7 @@
 	<input type="checkbox"> Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total<hr />
 	<input type="checkbox"> Submit Painting - 25 bits each, can submit 3<hr />
 	<input type="checkbox"> Return Crown in Musem - 100 bits<hr />
-	<input type="checkbox"> Theater - Need more info<hr />
+	<input type="checkbox"> Theater - 250xp &amp; 500 bits, if clapping additional 50 xp &amp;100 bits, if not clapping need more info<hr />
 	<input type="checkbox"> Daily Photo Print - 50 XP<hr />
 	<input type="checkbox"> Photo Projection - 50 XP, 25 bits<hr />
 	<input type="checkbox"> Daily Photo Submission - 25 bits

@@ -119,12 +119,12 @@ mark {
     left: 0;
     height: 25px;
     width: 25px;
-    background-color: #600;
+    background-color: #690000;
 }
 
 /* On mouse-over, add a background color */
 .container:hover input ~ .checkmark {
-    background-color: #00a100;
+    background-color: #006900;
 }
 
 /* When the checkbox is checked, add a background */

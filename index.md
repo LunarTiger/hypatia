@@ -3,16 +3,54 @@
 
 <div style="border-style: dotted;border-width: 2px;border-color: #00be00;width: 400px;max-width: 100%;margin-left:auto;margin-right:auto;">
 	<hr style="height:0px; visibility:hidden;" />
-	<input type="checkbox"> Spaceships - 100 exp<hr />
-	<input type="checkbox"> Raise flags - 100 exp<hr />
-	<input type="checkbox"> Create firework, last cabin. - 25 exp, 10 bits<hr />
-	<input type="checkbox"> Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total<hr />
-	<input type="checkbox"> Submit Painting - 25 bits each, can submit 3<hr />
-	<input type="checkbox"> Return Crown in Musem - 100 bits<hr />
-	<input type="checkbox"> Theater - 250xp &amp; 500 bits, if clapping additional 50 xp &amp;100 bits, if not clapping need more info<hr />
-	<input type="checkbox"> Daily Photo Print - 50 XP<hr />
-	<input type="checkbox"> Photo Projection - 50 XP, 25 bits<hr />
-	<input type="checkbox"> Daily Photo Submission - 25 bits
+	<label class="container"><mark>NEW!</mark> Boat Race - more info needed
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Theater - 250xp &amp; 500 bits, if clapping additional 50 xp &amp; 100 bits, if not clapping need more info
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Spaceships - 100 exp
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Raise flags - 100 exp
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Create firework, last cabin. - 25 exp, 10 bits
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Submit Painting - 25 bits each, can submit 3
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Submit Sculpture - ? bits each, can submit 3
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Return Crown in Musem - 100 bits
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Daily Photo Print - 50 XP
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Photo Projection - 50 XP, 25 bits
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+	<label class="container">Daily Photo Submission - 25 bits
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
 	<!--<ul style="text-align: left;list-style-position: outside;list-style: none;">
 		<li>Spaceships - 100 exp</li>
 		<li>Raise flags - 100 exp</li>

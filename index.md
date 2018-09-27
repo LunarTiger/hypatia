@@ -62,5 +62,5 @@
 		<li>Daily Photo Submission - 25 bits</li>
 	</ul>-->
 </div>
-<hr style="height:20px; visibility:hidden;" />
+<hr style="height:80px; visibility:hidden;" />
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

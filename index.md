@@ -63,4 +63,4 @@
 	</ul>-->
 </div>
 <hr style="height:80px; visibility:hidden;" />
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:1065px;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>

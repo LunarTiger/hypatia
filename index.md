@@ -11,19 +11,19 @@
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Theater - 250xp &amp; 500 bits, if clapping additional 50 xp &amp; 100 bits, if not clapping need more info
+	<label class="container">Theater - 250xp &amp; 500 bits, if clapping additional 50 xp &amp; 100 bits, if not clapping additional 16 xp &amp; 33 bits
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Spaceships - 100 exp
+	<label class="container">Spaceships - 100 xp
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Raise flags - 100 exp
+	<label class="container">Raise flags - 100 xp
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Create firework, last cabin. - 25 exp, 10 bits
+	<label class="container">Create firework, last cabin. - 25 xp, 10 bits
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
@@ -39,11 +39,11 @@
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Daily Photo Print - 50 XP
+	<label class="container">Daily Photo Print - 50 xp
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<label class="container">Photo Projection - 50 XP, 25 bits
+	<label class="container">Photo Projection - 50 xp, 25 bits
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
@@ -63,4 +63,4 @@
 	</ul>-->
 </div>
 <hr style="height:80px; visibility:hidden;" />
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>

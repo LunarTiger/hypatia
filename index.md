@@ -1,6 +1,5 @@
 <h2 style ="text-align: center;">Daily Quests</h2>
 <hr style='height:1px; visibility:hidden;' />
-
 <div style="border-style: dotted;border-width: 2px;padding: 5px;border-color: #00be00;width: 600px;max-width: 100%;margin-left:auto;margin-right:auto;">
 	<hr style="height:0px; visibility:hidden;" />
 	<label class="container"><mark>NEW!</mark> Boat Race - 25 xp &amp; bits
@@ -51,16 +50,6 @@
 		<input type="checkbox">
 		<span class="checkmark"></span>
 	</label>
-	<!--<ul style="text-align: left;list-style-position: outside;list-style: none;">
-		<li>Spaceships - 100 exp</li>
-		<li>Raise flags - 100 exp</li>
-		<li>Create firework, last cabin. - 25 exp, 10 bits</li>
-		<li>Sprite Park - 10 bits each fruit/flower, 10 per basket, 5 baskets, 500 exp and bits total</li>
-		<li>Theater - Need more info</li>
-		<li>Daily Photo Print - 50 XP</li>
-		<li>Daily Photo Projection - 50 XP, 25 bits</li>
-		<li>Daily Photo Submission - 25 bits</li>
-	</ul>-->
 </div>
 <hr style="height:80px; visibility:hidden;" />
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:1065px;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>

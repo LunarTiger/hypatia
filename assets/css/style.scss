@@ -4,47 +4,54 @@
 @import "{{ site.theme }}";
 
 body {
-    color: #b4e754;
+    text-align:center;
+    background-image: none;
+    background-color: #000000;
+    color: #00be00;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align:center;
+    background-color: #000000;
+    color: #00ff00;
+    border-top: 1px dashed #006900;
 }
 
 /* unvisited link */
 a:link {
     color: #0ac139;
+    text-decoration: underline;
 }
 
 /* visited link */
 a:visited {
     color: #0ac139;
+    text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
     color: #0ac139;
+    text-decoration: underline;
 }
 
 /* selected link */
 a:active {
     color: #0ac139;
-}
-
-a:link {
     text-decoration: underline;
 }
 
-a:visited {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-a:active {
+a {
+    color: #0ac139;
     text-decoration: underline;
 }
 
 h1 {
-    color: #2E8B57;
+    color: #006900;
 }
 
 h2 {
@@ -52,107 +59,120 @@ h2 {
 }
 
 h3 {
+    color: #00be00;
+}
+
+h4 {
     color: #006900;
 }
 
+h5 {
+    color: #006900;
+}
+
+h6 {
+    color: #00ff00;
+}
+
 hr {
-    border-color: #006900;
+    border-top: 1px dashed #006900;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
 }
 
 table {
-    border: 0px solid;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    border: none;
+    max-width: 99%;
+}
+
+table.navbar {
+    cellspacing: 10;
+}
+
+tr {
+    border: none;
+}
+
+th {
+    text-align:center;
+    border: none;
 }
 
 ul {
     list-style-position: inside;
 }
 
-li::before {
-    content: "→";
-    color: #39FF14;
-    display: inline-block;
-    width: 2em;
-    margin-left: -2em
+button {
+    background-color: #000000;
+    color: #00FF00;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-hr {
-    border-top: 2px dotted #00be00;
-    border-bottom: 0;
-    border-left: 0;
-    border-right: 0;
-    height: 0;
+div.container {
+    max-width: 80%;
+    margin: 0 auto;
 }
 
-mark {
-    background-color: #006900;
-    color: #fff;
+/* navbar */
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
 }
 
-/*----------------------------------------------------------------
-  - Coustom check boxes                                          -
-  ----------------------------------------------------------------
-/* The container */
-.container {
+/* navbar */
+li.navbar {
+    border-right: 1px dashed #006900;
+    float: left;
+}
+
+li.navbar:last-child {
+    border-right:none;
+}
+
+li.navbar a {
     display: block;
-    position: relative;
-    padding-left: 35px;
-    margin-bottom: 12px;
-    cursor: pointer;
-    font-size: 22px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+    color: #00be00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
-/* Hide the browser's default checkbox */
-.container input {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
+/* Change the link color to on hover */
+li.navbar a:hover {
+    background-color: #003300;
 }
 
-/* Create a custom checkbox */
-.checkmark {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 25px;
-    width: 25px;
-    background-color: #690000;
+/*coustom scrollbar*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
 }
 
-/* On mouse-over, add a background color */
-.container:hover input ~ .checkmark {
-    background-color: #006900;
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent; 
 }
 
-/* When the checkbox is checked, add a background */
-.container input:checked ~ .checkmark {
-    background-color: #0f0;
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #0f0; 
+    border-radius: 10px;
 }
 
-/* Create the checkmark/indicator (hidden when not checked) */
-.checkmark:after {
-    content: "";
-    position: absolute;
-    display: none;
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #009900; 
 }
 
-/* Show the checkmark when checked */
-.container input:checked ~ .checkmark:after {
-    display: block;
-}
-
-/* Style the checkmark/indicator */
-.container .checkmark:after {
-    left: 9px;
-    top: 5px;
-    width: 0px;
-    height: 0px;
-    border: 0;
-    border-width: 0 0px 0px 0;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
+/*corner where the scrollbars meet*/
+::-webkit-scrollbar-corner {
+    background: transparent;
 }

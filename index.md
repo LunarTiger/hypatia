@@ -1,6 +1,6 @@
 <h2 style ="text-align: center;">Daily Quests</h2>
 <hr style='height:1px; visibility:hidden;' />
-<div style="border-style: dotted;border-width: 2px;padding: 5px;border-color: #00be00;width: 600px;max-width: 100%;margin-left:auto;margin-right:auto;">
+<div style="border-style: dotted;border-width: 2px;padding: 5px;border-color: #00be00;width: 600px;max-width: 100%;margin-left:auto;margin-right:auto;text-align: left;">
 	<hr style="height:0px; visibility:hidden;" />
 	<label class="container"><mark>NEW!</mark> Boat Race - 25 xp &amp; bits
 		<input type="checkbox">

@@ -1,9 +1,15 @@
 ---
 ---
 
+@font-face {
+    font-family: ComicSans;
+    src: url(/comic.ttf);
+}
+
 @import "{{ site.theme }}";
 
 body {
+    font-family: ComicSans;
     text-align:center;
 	background-image: none;
     background-color: #000000;
@@ -11,6 +17,7 @@ body {
 }
 
 footer {
+    font-family: ComicSans;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -107,6 +114,7 @@ ul {
 }
 
 button {
+    font-family: ComicSans;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;

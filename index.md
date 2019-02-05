@@ -51,5 +51,10 @@
 		<span class="checkmark"></span>
 	</label>
 </div>
-<hr style="height:80px; visibility:hidden;" />
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:1065px;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>
+<hr style="height:20px; visibility:hidden;" />
+<div style="border-width: 0;width: 645px;height:auto;max-width: 100%;margin-left:auto;margin-right:auto;">
+	<button class="collapsible" id="correction" data-parent="correction" data-child="correction-child">Correction Form</button>
+	<div id="correction-child" class="innertextcenter" data-parent="correction">
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:1065px;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>
+	</div>
+</div>

@@ -55,6 +55,6 @@
 <div class="encase">
 	<button class="collapsible" id="correction" data-parent="correction" data-child="correction-child">Correction Form</button>
 	<div id="correction-child" class="innertext center" data-parent="correction">
-		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:1065px;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?embedded=true" style="border-width: 0;width: 640px;height:auto;max-width: 100%;margin-left:auto;margin-right:auto;" marginheight="0" marginwidth="0"><a href='https://docs.google.com/forms/d/e/1FAIpQLScLvXJHgvdNBeWLiZEGmcEOgSYBNUwZBeHF9rdpGpnOyMtpLw/viewform?usp=sf_link'>Loading Form...</a></iframe>
 	</div>
 </div>

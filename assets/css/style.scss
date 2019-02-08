@@ -266,6 +266,8 @@ li.navbar a:hover {
 
 /*----------------------------------------------------------------*/
 
+/* collapsible layout */
+
 .collapsible {
     background-color: #006900;
     color: white;
@@ -295,19 +297,35 @@ li.navbar a:hover {
 }
 
 .innertext {
-    padding: 0 0;
+    padding: 0;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    background-color: #000;
+    background-color: transparent;
     text-align: left;
+    border-radius: 10px;
+    margin-bottom: 1.5em;
 }
 
-.innertextcenter {
-    padding: 0 0;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+.innertext p {
+    margin: 20px 0 20px
+}
+
+.innertext iframe div {
     background-color: #000;
+}
+
+.center {
     text-align: center;
 }
+
+.encase {
+    border-width: 0;
+    width: 645px;
+    height:auto;
+    max-width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*------------------------------------*/
